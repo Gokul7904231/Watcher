@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+*.env
+!.env.example
+
+# State tracking (optional locally, GitHub Action manages it on remote)
+# seen.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
