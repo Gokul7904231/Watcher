@@ -5,27 +5,57 @@
     "fresher",
     "graduate",
     "new grad",
+    "campus",
+    "trainee",
+    "junior",
+    "entry level",
+    "apprentice",
+    "associate",
     "sde",
     "sde-1",
     "sde 1",
     "software engineer",
     "software developer",
+    "developer",
+    "engineer",
+    "web developer",
+    "web development",
+    "frontend",
+    "front-end",
     "backend",
+    "back-end",
     "full stack",
+    "fullstack",
     "full-stack",
-    "ai engineer",
-    "ml engineer",
-    "machine learning",
-    "genai",
-    "llm",
+    "react",
+    "node",
+    "javascript",
+    "typescript",
     "python",
-    "associate",
-    "trainee",
-    "apprentice"
+    "ai",
+    "ai engineer",
+    "ai developer",
+    "artificial intelligence",
+    "machine learning",
+    "ml engineer",
+    "ml",
+    "deep learning",
+    "nlp",
+    "computer vision",
+    "data science",
+    "llm",
+    "llms",
+    "agentic",
+    "agent",
+    "agents",
+    "genai",
+    "generative ai",
+    "prompt engineer"
   ],
   "exclude_title": [
     "senior",
     "sr.",
+    "sr ",
     "staff",
     "principal",
     "lead",
@@ -37,9 +67,9 @@
     "sde-2",
     "sde 2",
     "sde-3",
-    "sde iii",
+    "sde 3",
     "sde ii",
-    "iii",
+    "sde iii",
     "marketing",
     "sales",
     "hr",
@@ -48,16 +78,13 @@
     "finance",
     "accounting",
     "legal",
-    "design",
-    "designer",
-    "content",
     "operations",
     "business development",
-    "customer",
-    "support",
-    "social media",
+    "customer support",
+    "customer success",
+    "content",
     "writer",
-    "analyst"
+    "social media"
   ],
   "locations": [
     "india",
@@ -79,7 +106,51 @@
       "name": "CRED",
       "ats": "lever",
       "slug": "cred"
+    },
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "slug": "stripe"
+    },
+    {
+      "name": "Cloudflare",
+      "ats": "greenhouse",
+      "slug": "cloudflare"
+    },
+    {
+      "name": "Anthropic",
+      "ats": "greenhouse",
+      "slug": "anthropic"
+    },
+    {
+      "name": "Scale AI",
+      "ats": "greenhouse",
+      "slug": "scaleai"
+    },
+    {
+      "name": "Linear",
+      "ats": "ashby",
+      "slug": "linear"
+    },
+    {
+      "name": "Replit",
+      "ats": "ashby",
+      "slug": "replit"
+    },
+    {
+      "name": "Ramp",
+      "ats": "ashby",
+      "slug": "ramp"
     }
   ],
-  "feeds": []
+  "feeds": [
+    {
+      "name": "WeWorkRemotely Dev",
+      "url": "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+    },
+    {
+      "name": "HackerNews Hiring",
+      "url": "https://hnrss.org/whoishiring/jobs"
+    }
+  ]
 }
