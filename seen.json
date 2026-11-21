@@ -1436,7 +1436,8 @@
   "8404716",
   "8404717",
   "8406156",
-  "8406159"
+  "8406159",
+  "8406944"
  ],
  "greenhouse:anthropic": [
   "4017331008",
@@ -2604,6 +2605,8 @@
   "fe280d10-4258-420a-b0bb-0dc9021bd803"
  ],
  "feed:https://weworkremotely.com/categories/remote-programming-jobs.rss": [
+  "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+  "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
   "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
   "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
   "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
@@ -2632,6 +2635,7 @@
   "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
   "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
   "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+  "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
   "https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations",
   "https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
   "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
